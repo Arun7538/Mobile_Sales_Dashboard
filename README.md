@@ -127,10 +127,8 @@ The dashboard includes:
 B.Tech (CSE - AI & ML)
 Aspiring Data Analyst | Power BI Enthusiast | Python Learner
 
-### Connect With Me
-* LinkedIn: Add Your LinkedIn Profile
-* GitHub: Add Your GitHub Profile
 
----
 
-⭐ If you found this project useful, consider giving it a star on GitHub.
+
+
+.
